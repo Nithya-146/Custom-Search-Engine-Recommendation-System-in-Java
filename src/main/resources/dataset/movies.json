@@ -1,0 +1,72 @@
+[
+  {
+    "docId": "DOC-101",
+    "title": "Inception",
+    "content": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. Artificial intelligence, mind heist, sub-conscious dream layers, and deep reality manipulation.",
+    "category": "Sci-Fi",
+    "author": "Christopher Nolan"
+  },
+  {
+    "docId": "DOC-102",
+    "title": "The Matrix",
+    "content": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. Virtual reality, cyber intelligence, Neo, agent Smith, and matrix artificial algorithms.",
+    "category": "Sci-Fi",
+    "author": "Wachowskis"
+  },
+  {
+    "docId": "DOC-103",
+    "title": "Interstellar",
+    "content": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. Black holes, quantum gravity, relativity, space travel, wormholes, and cosmic endurance.",
+    "category": "Sci-Fi",
+    "author": "Christopher Nolan"
+  },
+  {
+    "docId": "DOC-104",
+    "title": "The Dark Knight",
+    "content": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "category": "Action",
+    "author": "Christopher Nolan"
+  },
+  {
+    "docId": "DOC-105",
+    "title": "Pulp Fiction",
+    "content": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "category": "Crime",
+    "author": "Quentin Tarantino"
+  },
+  {
+    "docId": "DOC-106",
+    "title": "Fight Club",
+    "content": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more. Psychological thrill, insomnia, anti-consumerism, and mayhem.",
+    "category": "Drama",
+    "author": "David Fincher"
+  },
+  {
+    "docId": "DOC-107",
+    "title": "Ex Machina",
+    "content": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I. robot.",
+    "category": "Sci-Fi",
+    "author": "Alex Garland"
+  },
+  {
+    "docId": "DOC-108",
+    "title": "Blade Runner 2049",
+    "content": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years. Synthetic androids, dystopian futures, and cybernetics.",
+    "category": "Sci-Fi",
+    "author": "Denis Villeneuve"
+  },
+  {
+    "docId": "DOC-109",
+    "title": "The Godfather",
+    "content": "The aging patriarch of an organized crime dynasty in New York City transfers control of his clandestine empire to his reluctant youngest son. Mafia loyalty, crime family, vengeance, and power.",
+    "category": "Crime",
+    "author": "Francis Ford Coppola"
+  },
+  {
+    "docId": "DOC-110",
+    "title": "The Social Network",
+    "content": "As Harvard student Mark Zuckerberg creates the social networking site that would become Facebook, he is sued by the twins who claimed he stole their idea, and the co-founder who was later squeezed out. Computer programming, startup, algorithm, networks, and legal battle.",
+    "category": "Biography",
+    "author": "David Fincher"
+  }
+]

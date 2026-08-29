@@ -1,0 +1,10 @@
+target/
+*.class
+data/
+.tools/
+.idea/
+.classpath
+.project
+.settings/
+*.log
+*.dat
